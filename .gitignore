@@ -1,0 +1,17 @@
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Medii virtuale
+venv/
+env/
+
+# Fisiere specifice sistemului de operare
+.DS_Store
+Thumbs.db
+
+# Evita urcarea fisierelor media daca le descarci direct in folderul proiectului
+*.mp4
+*.mp3
+*.m4a
+*.webm
